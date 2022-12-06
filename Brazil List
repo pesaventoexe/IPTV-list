@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DIVISÃO", FHD E HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355728
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", A&E FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5189
 
@@ -66,7 +63,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923652
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", CINE SKY 3  FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923653
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FLMES", CINEMAX FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", CINEMAX FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5200
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS", CNN BRASIL FHD
@@ -129,7 +126,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373196
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", FOOD NETWORK HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5066
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTESy", FOX SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", FOX SPORTS 2 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5224
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", FX FHD
@@ -174,7 +171,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5240
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", HGTV FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5204
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOMCUMENTARIOS", HISTORY 2 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", HISTORY 2 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5235
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", HISTORY FHD
@@ -294,7 +291,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5276
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", Travel Box Brazil FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/384894
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABEERTOS", TV BRASIL HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTOS", TV BRASIL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374285
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIS", TV RA TIM BUM FHD
