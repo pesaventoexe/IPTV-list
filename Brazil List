@@ -1,337 +1,150 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", A&E FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5189
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", AMC FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5190
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", ANIMAL PLANET FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5191
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", ARTE 1 FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/38424
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", AXN HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5043
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIS", BABY TV HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/38437
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTOS", BAND FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5289
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTOS", BAND RJ FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453180
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS", BAND NEWS HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5160
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", BAND SPORTS FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5194
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", BIS FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5195
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", CANAL BRASIL FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5197
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", CANAL RURAL HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373935
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", CANAL SONY FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373238
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTOS", CANÇÃO NOVA FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5384
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIS", CARTOON NETWORK FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5199
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIS", CARTOONITO FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5196
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", SPACE FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5261
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", CINE CANAL HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923563
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", CINE SKY 2 FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923652
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", CINE SKY 3  FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923653
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", CINEMAX FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5200
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS", CNN BRASIL FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5285
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", COMEDY CENTRAL FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5202
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", CURTA! SD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5413
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5203
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", DISCOVERY H&H FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5205
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", DISCOVERY KIDS FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5206
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", DISCOVERY SCIENCE FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5207
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", DISCOVERY THEATER FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5208
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", DISCOVERY TURBO FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5209
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", DISCOVERY WORLD FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5210
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIS", DISNEY CHANNEL FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5211
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", E! FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5213
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", ESPN FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5215
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", ESPN 2 FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5216
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", ESPN 3 FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465905
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", ESPN 4 FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465908
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", ESPN EXTRA FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5214
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", FASHION TV FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923898
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", FISH TV FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373196
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", FOOD NETWORK HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5066
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", FOX SPORTS 2 FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5224
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", FX FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5225
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS", GLOBO NEWS FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45264
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS ABERTOS", GLOBO RJ FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5352
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIS", GLOOB FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5227
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", GNT FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5228
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355046
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO SD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5445
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO 2 FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/17912
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO FAMILY HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5079
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO MUNDI FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5239
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO POP FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5241
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO SIGNATURE FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5082
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", HBO XTREME FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5240
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", HGTV FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5204
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", HISTORY 2 FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5235
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", HISTORY FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5234
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", ID - INVESTIGATION DISCOVERY FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5236
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS", JOVEM PAN NEWS FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465361
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", LIFETIME FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5237
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", MEGAPIX HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5090
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", Modo Viagem FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/475671
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", MULTISHOW FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5244
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", MUSIC BOX BRAZIL HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5462
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", NATGEO WILD FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923829
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", NATIONAL GEOGRAPHIC FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/104677
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", NHK FHD (JAPONES)
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923383
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIS", NICK JR FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5249
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIS", NICKELODEON FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5248
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", OFF HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5098
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", PARAMOUNT FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5251
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTOS", RECORD RJ HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5320
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS", RECORD NEWS FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/115704
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTOS", REDE BRASIL HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374283
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTOS", REDE TV FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/354855
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", SPACE
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923654
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", SPACE+
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014603
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", SPORT.TV1 HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923177
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", SPORT.TV+ HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014601
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", SPORTV 2 FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5262
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", SPORTV 3 FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5263
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", STAR CHANNEL HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5067
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", SYFY FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5266
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", TBS FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5267
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", TELECINE ACTION FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5268
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", TELECINE CULT FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5269
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", TELECINE FUN FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5270
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", TELECINE PIPOCA FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5271
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", TELECINE PREMIUM FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5272
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", TELECINE TOUCH FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5273
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", TERRA VIVA HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374284
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", TLC FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5274
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", TNT FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5275
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", TNT SERIES FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5276
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", Travel Box Brazil FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/384894
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ABERTOS", TV BRASIL HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374285
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIS", TV RA TIM BUM FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465346
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", VIVA FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/30742
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", WARNER CHANNEL FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5282
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MISTOS", WOOHOO FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5283
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIS", ZOOMOO KIDS HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5533
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", COMBATE FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5201
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA", A FAZENDA CAMERA 1
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038261
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA", A FAZENDA CAMERA 2
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038262
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA", A FAZENDA CAMERA 3
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038263
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA", A FAZENDA CAMERA 4
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038264
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA", A FAZENDA CAMERA 5
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038265
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA", A FAZENDA CAMERA 6
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038266
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA", A FAZENDA CAMERA 7
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038267
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA", A FAZENDA CAMERA 8
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038268
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9QDMywTzl1IjyGoACEHB5o8J2sGcoNWD8UWdyPyY_LCE8WmNPqXkoag8z5w8fgHyk-aelBuKhp3EJSqHNgi6t5Sx-Uty4bDq2echfzLR_9oQ.png" group-title="BR | BRAZIL",BR: A&E HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115805.ts
+#EXTINF:-1 tvg-id="AMCB" tvg-name="BR: AMC HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9l1YyUxzIbM3zQDPvoR_gJRuy1bWrfdkAWqGcPtCUp7CEC1WQJ6_b8V-B2fqUKCaa.png" group-title="BR | BRAZIL",BR: AMC HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115806.ts
+#EXTINF:-1 tvg-id="AXNB" tvg-name="BR: AXN HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTpQhOOD43lyumKbh1qUlwDH8IJZPnvV8gCxWoNjkCysHK0vSWoCn0T-druXIgNK7do.png" group-title="BR | BRAZIL",BR: AXN HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115807.ts
+#EXTINF:-1 tvg-id="FXB" tvg-name="BR: FX HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9B39Zm2YRpQLw010fSR_e__Z0tWYfKvK4b6i6oVwSCTsQI1thARfGhq-9p2yofx5J.png" group-title="BR | BRAZIL",BR: FX HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115808.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD HD" tvg-logo="" group-title="BR | BRAZIL",BR: RECORD HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115809.ts
+#EXTINF:-1 tvg-id="RECNEW" tvg-name="BR: RECORD NEWS" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaZBlp2tl_5RmsVb0oVBFGNuqTu2TLNX_dXxtaugo1M8FL4YHXna3TrcmCEtkahW_sQ.png" group-title="BR | BRAZIL",BR: RECORD NEWS
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115810.ts
+#EXTINF:-1 tvg-id="REDEGL" tvg-name="BR: GLOBO HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeDBFJE0hoqlxH-ekDQmjmyFL-7ggw_DsqAZzkO7iYPdWtL-LcqOEoL9TNTjXhE3oQ.png" group-title="BR | BRAZIL",BR: GLOBO HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115811.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO MINAS HD" tvg-logo="" group-title="BR | BRAZIL",BR: GLOBO MINAS HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115812.ts
+#EXTINF:-1 tvg-id="GLN" tvg-name="BR: GLOBO NEWS HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaZBlp2tl_5RmsVb0oVBFGNsK1PWyzPc5GIkUfL2gB8wTxoVqPt1H9oMfgKmwp4Ysig.png" group-title="BR | BRAZIL",BR: GLOBO NEWS HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115813.ts
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="BR: COMBATE HD" tvg-logo="http://tv4k.me:80/images/7G-ZL6WVgJl4WLmPt8IpOQZzTX5Qy1pb-La2t0wAQZeahFwndQW9tcVWWqMec5ANP5eyP2iTe22VfhAFtxt13cjk8UlTk4I7BicFKRn0mzg.png" group-title="BR | BRAZIL",BR: COMBATE HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115814.ts
+#EXTINF:-1 tvg-id="PR2SPO" tvg-name="BR: PREMIERE 2 HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtjZ4-oGW3vEvMS_OLCqN0OuACmwx9TTfUZcMeDN63Y4YA.png" group-title="BR | BRAZIL",BR: PREMIERE 2 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115815.ts
+#EXTINF:-1 tvg-id="TCP" tvg-name="BR: TELECINE PREMIUN HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeDBFJE0hoqlxH-ekDQmjmyBTuwoRP5X3h-9Xbcsjp_JMTfjQJ5rgSWyz_mF7AS-oQ.png" group-title="BR | BRAZIL",BR: TELECINE PREMIUN HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115816.ts
+#EXTINF:-1 tvg-id="HBOSB" tvg-name="BR: HBO SIGNATURE HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO91jDwfHCruQCetbqrwszofW21Yk3lPrKjLRWZeQzUoubtGXGzmqHtzO18WTtCNbPsKKvO6Dt7FkQbq1YNX_1nDg.png" group-title="BR | BRAZIL",BR: HBO SIGNATURE HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115817.ts
+#EXTINF:-1 tvg-id="HBOB" tvg-name="BR: HBO HD" tvg-logo="http://tv4k.me:80/images/O5oJOm1lPCS2FLZRJ7g3q55HLyOBgU0J70CdjgWwLoViycG2rkDiMrSIiGoic49m5TehvVjxuqxCaIGZz257YV7LQwWCExMrjdhl0Uo_QPo.png" group-title="BR | BRAZIL",BR: HBO HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115818.ts
+#EXTINF:-1 tvg-id="HBOFBE" tvg-name="BR: HBO FAMILY HD" tvg-logo="http://tv4k.me:80/images/p02xu53JNoJ7gH-jlogZ_I2bsRisWbUdpqh3CYg77HAOxxu3YHLOcyK6f0za2wAemGkTfpSpi_pTP1K_3cTZkteCaMwcH27z-n0TdeWNfmc.png" group-title="BR | BRAZIL",BR: HBO FAMILY HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115819.ts
+#EXTINF:-1 tvg-id="GHB2DLY" tvg-name="BR: HBO 2 HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTq9SajEck8VNTkY-LvMfHqIAPdisbygj9iGKCZixA1dT7OduPZe_7giP9mYsvX6ADQ.png" group-title="BR | BRAZIL",BR: HBO 2 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115820.ts
+#EXTINF:-1 tvg-id="SPACEB" tvg-name="BR: SPACE HD" tvg-logo="http://tv4k.me:80/images/fx7PZArdH5-T9aIln5-gS4v4Iu8APbQfJ2JCIUOvS38HnpUqeabQvPqXuVYdb42eHAHqO_tPU-iNdOMuE9xu1_xozcD5U2nihaGw8zX4Ubo.png" group-title="BR | BRAZIL",BR: SPACE HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115821.ts
+#EXTINF:-1 tvg-id="SONYCAE" tvg-name="BR: SONY HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTr2VwwIDhPQbHs8NDjHcUghlu0gnCANwKyD-DS_s2ZJl8gFeU_UQzJPQV2I60AViQB3CAcaoiLUVTHLWciBm6FW.png" group-title="BR | BRAZIL",BR: SONY HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115822.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTpcIHEZCRw2UTW2o6jpDCek22R0aBtv3TPjKb-WKdDLlYxwTUS0g9_BrDRuFC1NH2c1q1CTf12PqHbrVsqAw__HGEhobRkyqYlGy0nZVUruEg.png" group-title="BR | BRAZIL",BR: PARAMOUNT HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115823.ts
+#EXTINF:-1 tvg-id="SYFYB" tvg-name="BR: SYFY HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9p7Wpgy_qKA4_gSo0J2bwMNiQRPhp8LKyj5Hf660UsgHbbFDFPbs7rMupWv_jsHk0.png" group-title="BR | BRAZIL",BR: SYFY HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115824.ts
+#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="BR: TNT HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9_qnypu5lnwQpDM4ROswSvtMbHKCxamrtNA3PfEPx7wohSWPWFXnQA7I-NBEEI6b02UpJINQPDJVS8gZiVmAWXw.png" group-title="BR | BRAZIL",BR: TNT HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115825.ts
+#EXTINF:-1 tvg-id="TNTSERH" tvg-name="BR: TNT SERIES HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTr2VwwIDhPQbHs8NDjHcUghBJquWApBhjMSs2jQIoiSY-eE0YmbOkHLwpG-r3mWKHs.png" group-title="BR | BRAZIL",BR: TNT SERIES HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115826.ts
+#EXTINF:-1 tvg-id="FXSAMCH" tvg-name="BR: FOX HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1eAD8F1zOTs_Dw5Rdf0Wvr0.png" group-title="BR | BRAZIL",BR: FOX HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115827.ts
+#EXTINF:-1 tvg-id="HBOXTRM" tvg-name="BR: HBO XTREME HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9HKrK9KmDx1aPwbRRCzoeSsyDu5_ps_8pYbqHip1ASXv_YkGIiHIB9yZqnaczL3D6smH2G2rBFUdAsiUUniP0bw.png" group-title="BR | BRAZIL",BR: HBO XTREME HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115828.ts
+#EXTINF:-1 tvg-id="DKNB" tvg-name="BR: DISCOVERY KIDS HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9iWp7xqcwgVmliX0sRddceg2Yz6KxAql5LjuG6_qsXsfY68kO7FVrzXapda8SM1jtYwv3wH7420rQhuoFLDbqYG2Jb50iJANJ9FOcdQ8UAeQ.png" group-title="BR | BRAZIL",BR: DISCOVERY KIDS HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115829.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY H&H" tvg-logo="http://tv4k.me:80/images/Qq69Mc_wxACXRQqpjHrHmQDyruiVmQj_UH_4qrU7GAHyhcS-7h0n16ZJK0t7n9ng3bv6uLCGGfRpYT6KTgmKbcqBFDj393zW1d-Oy5lNDVo.png" group-title="BR | BRAZIL",BR: DISCOVERY H&H
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115830.ts
+#EXTINF:-1 tvg-id="TDCB" tvg-name="BR: DISCOVERY CHANNEL HD" tvg-logo="http://tv4k.me:80/images/7G-ZL6WVgJl4WLmPt8IpOflPSR0KTL0i0M0FfdaGqQ92sAl78Z1uAwBgOrs-vdJNuYxN5ouT2H4YUh5DgAzNKps5FS_dUXQBzBHXfsXFc-M.png" group-title="BR | BRAZIL",BR: DISCOVERY CHANNEL HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115831.ts
+#EXTINF:-1 tvg-id="MSW" tvg-name="BR: MULTISHOW HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUadgvwnFyFnxw8zNzfzFjS1cGdA-vEsyC7yXunUfzArn5Jv4-GcRKNaq42f6CxsPtOw.png" group-title="BR | BRAZIL",BR: MULTISHOW HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115832.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATIONAL GEOGRAFHY HD" tvg-logo="" group-title="BR | BRAZIL",BR: NATIONAL GEOGRAFHY HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115833.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: HYSTORY HD" tvg-logo="" group-title="BR | BRAZIL",BR: HYSTORY HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115834.ts
+#EXTINF:-1 tvg-id="VIVABR" tvg-name="BR: VIVA HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-JwwnpgszBb1sUsagS-cgM1961zBUE1qptfZxFQKwLcFYVi2um7g.png" group-title="BR | BRAZIL",BR: VIVA HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115835.ts
+#EXTINF:-1 tvg-id="BOOMB" tvg-name="BR: BOOMERAN HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9OHFDbwyxGtLURaPyypjGPMTWIQ8x_pgeqxX1W_gPRaVfe_D6n_cz4d7HSewfDHhDkWGzXRMlRDF5H34ZuiTitg.png" group-title="BR | BRAZIL",BR: BOOMERAN HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115836.ts
+#EXTINF:-1 tvg-id="BABYBR" tvg-name="BR: BABY TV" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTrIjsqJyvAjB4wazlud_35jAhJGcDi21gWWDMmvQy3Uuw.png" group-title="BR | BRAZIL",BR: BABY TV
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115837.ts
+#EXTINF:-1 tvg-id="DISNB" tvg-name="BR: DISNEY CHANNEL HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9aT_86Ot1Wwzm_9pJ1zzQKIkcRULekZ7SDqyb7Rr1_ryXAGh0T9hzgaQ1OWLDJgBBnoNikRLyasAZeuFF2VT9CtmjZGBA7feL4hA09LR_Ajo.png" group-title="BR | BRAZIL",BR: DISNEY CHANNEL HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115838.ts
+#EXTINF:-1 tvg-id="TOONCB" tvg-name="BR: TOONCAST HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9iPt0Fb-2c6l2RGZjKq_xSDhjOzf3H9-dyN4Ipw_lxMDE0xquhkpoI9_u83C1l4FLFrQUjttEghkUcLOE0Vo_Jg.png" group-title="BR | BRAZIL",BR: TOONCAST HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115839.ts
+#EXTINF:-1 tvg-id="NKJRBRZ" tvg-name="BR: NICK JR HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTpYwGTQvHA4DTwMb5VzL2me5fLLoWK5k8I5y_2iTPRRbrNxRwtkrEQ8TKXm1Sw7XrQ.png" group-title="BR | BRAZIL",BR: NICK JR HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115840.ts
+#EXTINF:-1 tvg-id="NGKCM" tvg-name="BR: NATGEO KIDS HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9QSBM8qM15rwHTjULvHs2jpAnbEUJ50sQoHqy_8eIouvwzq7cVGrJgvxfkPgCGjM9-ATsBAVUj_bzoWl_tGk1SA.png" group-title="BR | BRAZIL",BR: NATGEO KIDS HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115841.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL| SPORTV 1 HD" tvg-logo="" group-title="BR | BRAZIL",BRASIL| SPORTV 1 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115842.ts
+#EXTINF:-1 tvg-id="SPORTV2" tvg-name="BRASIL| SPORTV 2 HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd0kFiM6Ux32uA2cd2iy0ph4FsmZEtS_HQTqgZewS_dLsw.png" group-title="BR | BRAZIL",BRASIL| SPORTV 2 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115843.ts
+#EXTINF:-1 tvg-id="SPORTV3" tvg-name="BRASIL| SPORTV 3 HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-JwwnpgsykwDFcKUMEdt0aKCtPjYjN2C3ZDLdS4oizTCRyhLX62Q.png" group-title="BR | BRAZIL",BRASIL| SPORTV 3 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115844.ts
+#EXTINF:-1 tvg-id="PRMSPRT" tvg-name="BR: PREMIERE 1 HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd0ZvzUAsIq81A-kjHgUvHrLri6YHv5PjV9q30iwFmSiiQ.png" group-title="BR | BRAZIL",BR: PREMIERE 1 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115845.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESTADIO TNT SPORTS 1 HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9ediuSeM_LS-7jnbJTbev1hA-xBjvkXd6ftnMfkoqsYSQFzy0J3iUBuWn4pGuwScup6HesAr6Z6fNHTJ3-iybCDZWFvpOZZSOHXkz82s57eI.png" group-title="BR | BRAZIL",BR: ESTADIO TNT SPORTS 1 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115846.ts
+#EXTINF:-1 tvg-id="FS2" tvg-name="BR: FOX SPORTS 2 HD" tvg-logo="http://tv4k.me:80/images/7G-ZL6WVgJl4WLmPt8IpOXW_Ml7ZHeAgjOFX-jrgPEui8WaiLVIkuuju-f1o1j-PlVP2Lka5BtPwPeyCpb9FkV1bL68KGxJdkDK_XkCJRos.png" group-title="BR | BRAZIL",BR: FOX SPORTS 2 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115847.ts
+#EXTINF:-1 tvg-id="ESPNBRS" tvg-name="BR: ESPN BRAZIL HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-Jwwnpgsy-i9welbgJK1Y125p_5zV7FMYNl2b7NVGTl2RUTVQ1Rw.png" group-title="BR | BRAZIL",BR: ESPN BRAZIL HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115848.ts
+#EXTINF:-1 tvg-id="ESPNB" tvg-name="BR: ESPN HD" tvg-logo="http://tv4k.me:80/images/O5oJOm1lPCS2FLZRJ7g3q55HLyOBgU0J70CdjgWwLoViycG2rkDiMrSIiGoic49m2VZcDgXWBWCFpLqhyKS9rvc4rqChpBkjAKADsCCA6eQ.png" group-title="BR | BRAZIL",BR: ESPN HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115849.ts
+#EXTINF:-1 tvg-id="ESPNMBR" tvg-name="BR: ESPN 2 HD" tvg-logo="http://tv4k.me:80/images/7G-ZL6WVgJl4WLmPt8IpOUV68wObjg7-UCLtVGCH4DfjOI3r3QWV9bGnF-FtpTHNT9CldQQTnLJs8Y35p2kmpeDvAPM4ZaKdNUkK_4cVdlE.png" group-title="BR | BRAZIL",BR: ESPN 2 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115850.ts
+#EXTINF:-1 tvg-id="ESPNB" tvg-name="BR: ESPN + HD" tvg-logo="http://tv4k.me:80/images/1kh4E9iLf1dybePBzhx4COTkKGMDRuzm8wx2d-uyx7gQQvs_NGVfiblg0eXha7aWtQ7k5Sc8gEWheVf6ithdWovS21MYWuNU-m1wkU7XV1s.png" group-title="BR | BRAZIL",BR: ESPN + HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115851.ts
+#EXTINF:-1 tvg-id="BANDSP" tvg-name="BR: BANDS SPORTS HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9rc-0K_cpATAEcjBK3_jHGz276He0YflSEeTyXIDVJjZODDT1eBYWaoFEkiGbyFqBBdjc-Qc93AfZhrJVxNYuWg.png" group-title="BR | BRAZIL",BR: BANDS SPORTS HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115852.ts
+#EXTINF:-1 tvg-id="CINEMXB" tvg-name="BR: CINEMAX HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTpHgawMKYUdz9uXH7cDj9YQMIdWWUfaE0FwrRLmVTOfBZ4rOgMF6CJB56g-8UpvWbM.png" group-title="BR | BRAZIL",BR: CINEMAX HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115853.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 1 HD" tvg-logo="" group-title="BR | BRAZIL",BR: CINE SKY 1 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115854.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 2 HD" tvg-logo="" group-title="BR | BRAZIL",BR: CINE SKY 2 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115855.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 3 HD" tvg-logo="" group-title="BR | BRAZIL",BR: CINE SKY 3 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115856.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 5 HD" tvg-logo="" group-title="BR | BRAZIL",BR: CINE SKY 5 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115857.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 6 HD" tvg-logo="" group-title="BR | BRAZIL",BR: CINE SKY 6 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115858.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 7 HD" tvg-logo="" group-title="BR | BRAZIL",BR: CINE SKY 7 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115859.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 8 HD" tvg-logo="" group-title="BR | BRAZIL",BR: CINE SKY 8 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115860.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 10 HD" tvg-logo="" group-title="BR | BRAZIL",BR: CINE SKY 10 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115861.ts
+#EXTINF:-1 tvg-id="PR3UBE" tvg-name="BR: PREMIERE 3 HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtj2aXL4vIJvNDUIpdleGpnMBE9u9A4AXHPXZrdcGHweIg.png" group-title="BR | BRAZIL",BR: PREMIERE 3 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115862.ts
+#EXTINF:-1 tvg-id="PRMR4" tvg-name="BR: PREMIERE 4 HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaSGS79a_8FYNl4IoU1uCSd3Z6_4x6Ht0WFOo7Xh288NUODa2TQ4MmdbQRWjhTJe0ig.png" group-title="BR | BRAZIL",BR: PREMIERE 4 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115863.ts
+#EXTINF:-1 tvg-id="PR2SPO" tvg-name="BR: PREMIERE 5 HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtjZ4-oGW3vEvMS_OLCqN0OuACmwx9TTfUZcMeDN63Y4YA.png" group-title="BR | BRAZIL",BR: PREMIERE 5 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115864.ts
+#EXTINF:-1 tvg-id="PRM6BR" tvg-name="BR: PREMIERE 6 HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwti54F9l61cmm4xgV6Np1IEb-MrURvADyAvkEHTsFEZAPg.png" group-title="BR | BRAZIL",BR: PREMIERE 6 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115865.ts
+#EXTINF:-1 tvg-id="PRM8BR" tvg-name="BR: PREMIERE 8 HD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaeqdBZV2lWo0sv-JwwnpgsxmfncCGhGmHDs4LiQpNWTvbmEUo7XOD_KCqW_eo4o2Pw.png" group-title="BR | BRAZIL",BR: PREMIERE 8 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115866.ts
+#EXTINF:-1 tvg-id="FXSP1NL" tvg-name="BR: FOX SPORTS 1 HD" tvg-logo="http://tv4k.me:80/images/Qq69Mc_wxACXRQqpjHrHmQDyruiVmQj_UH_4qrU7GAEdi4gScGIc2uVxdtJ_cwrYxVJa1X4iLHds2bKOMrUSzU6huOof9Yzcy7cfTu3HpOTJQ9_026zqVftxxkcPUDmW.png" group-title="BR | BRAZIL",BR: FOX SPORTS 1 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115867.ts
+#EXTINF:-1 tvg-id="ANIPB" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="http://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="BR | BRAZIL",BR: ANIMAL PLANET HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115868.ts
+#EXTINF:-1 tvg-id="DWHDB" tvg-name="BR: DISCOVERY WORLD HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9A6DRZtnjhRs3n2nx6u7t5zXo2Wc0cVL2vUodNwENYWaRYdZqP_tXKPBo5q1erruu_2p7pbEDAyrySWflhzfmqcBhi4kQl4mGI_z1AunhUHo.png" group-title="BR | BRAZIL",BR: DISCOVERY WORLD HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115869.ts
+#EXTINF:-1 tvg-id="DTB" tvg-name="BR: DISCOVERY TURBO HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO97EPCVLDkpipId4G3HHs6lNdRSp-1sOJatsgogn9-0CMsUjECeAI0wn0XxmGzQ3d8SetiP30t_dBMvE_Omt-j_HUyDMCDXxK6wohMeuUrSCU.png" group-title="BR | BRAZIL",BR: DISCOVERY TURBO HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115870.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY THEATHER HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9HyQ5Q8SSVm0iGLi1RWzA-gMB69mlblozGJ_iSbAsMCOt8DSdcqwoo6meuJep5UK1oXcPLmC8dc4HauuhP57BLEs_SOnXGOb-jTHGSr_E_-15lYJ-S1kBZNWK3ZCbr6IE.png" group-title="BR | BRAZIL",BR: DISCOVERY THEATHER HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115871.ts
+#EXTINF:-1 tvg-id="H2SWE" tvg-name="BR: H2 HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOTpcIHEZCRw2UTW2o6jpDCekgxTDCRhhrqzNMFCxwp8LeUU-j5PwtPZUzi1vnJ6yO_7b322_xh2-w2P4oI4b4rzV.png" group-title="BR | BRAZIL",BR: H2 HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115872.ts
+#EXTINF:-1 tvg-id="HCB" tvg-name="BR: HISTORY HD" tvg-logo="http://tv4k.me:80/images/7G-ZL6WVgJl4WLmPt8IpOZwT1osTNLikjNi_Z1c1lWHRo7ysy1wjDgchfWl5p_RFOVlLTkUk2BsmNqOov5QlYpYE1KOnHf0niwUs5gZ7m44.png" group-title="BR | BRAZIL",BR: HISTORY HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115873.ts
+#EXTINF:-1 tvg-id="HGTVB" tvg-name="BR: HGTV HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO96zfSakEyc4AxMp0yxpgslsx-aiKSwF3Io_KJOFqJtXB77_qPjDqSajrHCKZKcR3pUSq0pP2NQVTEIZjVUHxXBw.png" group-title="BR | BRAZIL",BR: HGTV HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115874.ts
+#EXTINF:-1 tvg-id="WBB" tvg-name="BR: WARNER CHANNEL HD" tvg-logo="http://tv4k.me:80/images/BMGMTwwQFMkOJdXUAa-FiR6BtF2rgr3EdLWCj0xDRLGOsCPk628kva_HdZTos4PDPxbZzFxEjlrxbvYXlVguyEMrwxl9ZkOErHD-weyA7BxaiIeRtzzJXDOnbNjS-xEV.png" group-title="BR | BRAZIL",BR: WARNER CHANNEL HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115875.ts
+#EXTINF:-1 tvg-id="LIFELAH" tvg-name="BR: LIFETIME HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9cOsd0ISPbAMCRHBbBDHh9ZrvDrswy-A8EQoKhtmZU_qd-PRpKxYn9g0CnzY4tBEaWdUuBkyipGyq6iRmHf2YoA.png" group-title="BR | BRAZIL",BR: LIFETIME HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115876.ts
+#EXTINF:-1 tvg-id="HBOPLSD" tvg-name="BR: HBO PLUS HD" tvg-logo="http://tv4k.me:80/images/7G-ZL6WVgJl4WLmPt8IpOdGSpDYpr7zHitSxrY-GcIO_Pbuq61znpRyjgRgj8jvI6mWCPHlCVbs_F8jRhQ2uEsn4BgYk9RE68DbQP3x5Wjk.png" group-title="BR | BRAZIL",BR: HBO PLUS HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115877.ts
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="BR: HBO POP HD" tvg-logo="http://tv4k.me:80/images/fmqLu8C5DDoVmI8GTTEXgWngUWIGmAmEpfCORLmLOToDTBp91THX16JijVZttnO9O5aQzRAdyg-wkPpZY63v7gJO3f-T3JMLrn2AQEQL2434abuxgYdqQHlYQKblC85Q.png" group-title="BR | BRAZIL",BR: HBO POP HD
+http://tv4k.me:80/PremiumIPTV123/nMhMUm8s8d/115878.ts
